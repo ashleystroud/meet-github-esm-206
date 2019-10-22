@@ -51,6 +51,18 @@ The organization of this document probably seems strange. That's because it's pa
 ![Photo: Courtesy of VA Zoo](img/ringtail_cat.jpg)
 
 - the three hashtags then tabs code is what makes tab, then anything after #### will be the tab header all the way till three hashtag below. to add an image do exlcalamation point, then square brackets with caption inside then parenthesis with the pathway to find image
+- go to git tab, click them to stage them, if you want diff commit messages then stage them separately. them commit and push
+- you should always start with pressing pull blue arrow in git tab when working with others or even on your own, just check and make sure it says already up to date. 
+- merge conflicts: to avoid talk to collaborator to make sure not working on same line of code at the same time
+-commit in small meaningful increments, so if have done a few lines of code and actually working, do that. to stage all, click one so it is highlighted, press command A, then click space bar and all well get a checkmark
+- anything below 4 hashtag is headers, so 5 of them will do this
+
+
+##### Ringtail cats fun facts:
+
+- can rotate their hind feet 180 degrees to climb better
+-they are not endangered, just very elusive
+-closely related to raccoons
 
 ###
 
