@@ -14,9 +14,9 @@ The organization of this document probably seems strange. That's because it's pa
 
 [Link to the Lab 4 prompt](https://docs.google.com/document/d/1KX6_bKA8BOO0NdsUviVi0HCT-q9iTCtTYsS1dGNQJfU/edit?usp=sharing)
 
-### Cool animal fun facts {.tabset .tabset-fade}
+### Cool animal fun facts {.tabset .tabset-fade} 
 
-#### Great white sharks
+#### Great white sharks 
 
 ![Great white at Seal Island, South Africa. Photographer: Chris Brunskill Ltd/Corbis News via Getty Images ](img/great_white.jpg)
 
@@ -45,6 +45,12 @@ The organization of this document probably seems strange. That's because it's pa
 - Pika are of order *Lagomorpha* (which also includes rabbits)
 - Pika live in high altitude talus slopes
 - American pika are already disappearing from the Sierra Nevada
+
+#### tab notes
+
+![Photo: Courtesy of VA Zoo](img/ringtail_cat.jpg)
+
+- the three hashtags then tabs code is what makes tab, then anything after #### will be the tab header all the way till three hashtag below. to add an image do exlcalamation point, then square brackets with caption inside then parenthesis with the pathway to find image
 
 ###
 
